@@ -17,7 +17,7 @@
 *O império continua sua luta incessante de dominar a galáxia, tentando ao máximo expandir seu território e eliminar os rebeldes. Você, como um soldado da resistência, foi designado para desenvolver um sistema para compartilhar recursos entre o rebeldes.*
 
 ### Requisitos:
-Você irá desenvolver uma API REST (sim, nós levamos a arquitetura da aplicação a sério mesmo no meio de uma guerra), ao qual irá armazenar informação sobre os rebeldes, bem como os recursos que eles possuem.      
+Desenvolver uma API REST (sim, nós levamos a arquitetura da aplicação a sério mesmo no meio de uma guerra), ao qual irá armazenar informação sobre os rebeldes, bem como os recursos que eles possuem.      
 
 #### Adicionar rebeldes:
  - Um rebelde deve ter um nome, idade, gênero, localização(latitude, longitude e nome, na galáxia, da base ao qual faz parte).
